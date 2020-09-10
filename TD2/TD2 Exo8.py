@@ -31,5 +31,3 @@ for j in dico:
         print("Le nom de l'etudiant est :",j," ","le prénom est ",dico[j][0]," le matricule ",dico[j][2],)
 
 #il ne peut pas y avoir 2 index identiques
-
-
