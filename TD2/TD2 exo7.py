@@ -34,4 +34,3 @@ print(dico2["chemin"][1])
 
 del dico2['chemin']
 print(dico2)
-print("tonpere")
