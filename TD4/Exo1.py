@@ -34,6 +34,15 @@ def remplacement(c1, c2, ch):
     return ch2
 print(remplacement("b","toto","abcdbfg"))
 
+def remplacement(c1,c2,ch):
+    ch2 = ""
+    for i in ch:
+        if i == c1:
+            ch2 = ch2 + c2
+        else:
+            ch2 = ch2 + i
+    return ch2
+print(remplacement("a","toto","ablablacar"))
 
 # def remplacement(c1=" ", c2="*", ch=""):
 #     ch = ch.replace(c1,c2)

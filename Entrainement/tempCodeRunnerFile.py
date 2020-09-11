@@ -1,0 +1,2 @@
+
+notemin = listenote[0]
