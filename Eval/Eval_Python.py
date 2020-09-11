@@ -2,53 +2,53 @@
 #1 Bases
             #1.1
 
-# a = "toto"
-# b = "tata"
-# c = ""
-# c = b
-# b = a
-# a = c
-# print("la valeur de a est : ",a)
-# print("la valeur de b est : ",b)
+a = "toto"
+b = "tata"
+c = ""
+c = b
+b = a
+a = c
+print("la valeur de a est : ",a)
+print("la valeur de b est : ",b)
 
             #1.2
 
-# val1 = int(input("Veuillez saisir une valeur : "))
-# res1 = val1 **2
-# print(res1)
+val1 = int(input("Veuillez saisir une valeur : "))
+res1 = val1 **2
+print(res1)
 
             #1.3
 
-# val2 = int(input("Veuillez saisir un nombre : "))
-# if val2 < 0:
-#     print("le nombre est négatif")
-# elif val2 > 0:
-#         print("le nombre est positif")
+val2 = int(input("Veuillez saisir un nombre : "))
+if val2 < 0:
+    print("le nombre est négatif")
+elif val2 > 0:
+        print("le nombre est positif")
 
             #1.4
 
-# val3 = int(input("Saisir une valeur 1 : "))
-# val4 = int(input("Saisir une valeur 2 : "))
-# somme1 = val3 * val4
-# if somme1 < 0:
-#     print("le produit est négatif")
-# elif somme1 > 0:
-#     print("le produit est positif")
+val3 = int(input("Saisir une valeur 1 : "))
+val4 = int(input("Saisir une valeur 2 : "))
+somme1 = val3 * val4
+if somme1 < 0:
+    print("le produit est négatif")
+elif somme1 > 0:
+    print("le produit est positif")
 
             #1.5
 
-# val5 = int(input("Saisir la valeur de départ : "))
-# val6 = val5 + 10
-# for i in range(val5+1,val6+1):
-#     print(i)
+val5 = int(input("Saisir la valeur de départ : "))
+val6 = val5 + 10
+for i in range(val5+1,val6+1):
+    print(i)
 
             #1.6
 
-# val7 = int(input("Veuillez saisir un nombre : "))
-# somme2=0
-# for j in range(1,val7+1):
-#     somme2 = somme2 + j
-# print(somme2)
+val7 = int(input("Veuillez saisir un nombre : "))
+somme2=0
+for j in range(1,val7+1):
+    somme2 = somme2 + j
+print(somme2)
 
 # Exercices d'approfondissement
             #2.1
