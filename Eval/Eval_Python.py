@@ -12,7 +12,7 @@ print("la valeur de a est : ",a)
 print("la valeur de b est : ",b)
 
             #1.2
-
+            
 val1 = int(input("Veuillez saisir une valeur : "))
 res1 = val1 **2
 print(res1)
